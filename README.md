@@ -12,6 +12,11 @@ Application to manage books that have been read.
 * database: MySQL, JDBC
 * frontend: JSP, materializecss
 
+### Contributors:
+* https://github.com/mnadratowska
+* https://github.com/SzymonKuhn
+* https://github.com/TomaszSidor
+
 ### Run application
 The application is available at:
 http://localhost:8080
